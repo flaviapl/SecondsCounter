@@ -1,3 +1,13 @@
+
+Trabajo hecho con Cornelio.
+Se ha creado el reloj con los segundos y se ha modificado con .css. , a los segundos le asignamos las props , num1,num2,num3,num4,num5
+ Los valores se han encerrado en variables: const uno const dos const tres const cuatro const cinco que se han pasado con llaves a ReactDOM.render para que el valor , resultado del Mathfloor (/1000) fuese pintado en el browser. 
+
+
+
+
+
+
 # Hello World with React boilerplate
 <p>
   <a href="https://gitpod.io#https://github.com/4GeeksAcademy/react-hello.git"><img src="https://raw.githubusercontent.com/4GeeksAcademy/react-hello/master/open-in-gitpod.svg?sanitize=true" />
@@ -39,3 +49,7 @@ It takes just 2 minutes to deploy, [click here to start the process](https://git
 - Hot Deploy: Use of [Webpack Development Server](https://webpack.js.org/configuration/dev-server/) for hot deploy and live reload.
 - One-command publish of the code to github pages with `npm run deploy:github`.
 - Babel 7 (really fast).
+
+
+
+
