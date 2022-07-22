@@ -3,7 +3,7 @@ Trabajo hecho con Cornelio.
 Se ha creado el reloj con los segundos y se ha modificado con .css. , a los segundos le asignamos las props , num1,num2,num3,num4,num5
  Los valores se han encerrado en variables: const uno const dos const tres const cuatro const cinco que se han pasado con llaves a ReactDOM.render para que el valor , resultado del Mathfloor (/1000) fuese pintado en el browser. 
 
-
+/workspace/react-hello/src/img/2022-07-21_20h12_49.png
 
 
 
